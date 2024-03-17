@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollapseFileExcel", "CollapseFileExcel\CollapseFileExcel.csproj", "{A89E396F-4CE0-418E-A6EE-76E8F2659657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfToExcel", "PdfToExcel\PdfToExcel.csproj", "{2C9138A6-4D88-46DA-8AEB-B8DA5B9029EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89E396F-4CE0-418E-A6EE-76E8F2659657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89E396F-4CE0-418E-A6EE-76E8F2659657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89E396F-4CE0-418E-A6EE-76E8F2659657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89E396F-4CE0-418E-A6EE-76E8F2659657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9138A6-4D88-46DA-8AEB-B8DA5B9029EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9138A6-4D88-46DA-8AEB-B8DA5B9029EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9138A6-4D88-46DA-8AEB-B8DA5B9029EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9138A6-4D88-46DA-8AEB-B8DA5B9029EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1B46EE-A3C9-427B-86E3-594CF8392452}
+	EndGlobalSection
+EndGlobal
